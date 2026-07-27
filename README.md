@@ -39,14 +39,6 @@ Senior Computer Engineering Student passionate about **Computer Architecture**, 
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynepsilabekar-lab&show_icons=true&theme=radial&count_private=true" alt="Zeynep Sıla's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepsilabekar-lab&layout=compact&theme=radial" alt="Top Languages" width="45%" />
-</p>
-
----
 
 ## 📬 Connect with Me
 
