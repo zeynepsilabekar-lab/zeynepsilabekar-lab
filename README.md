@@ -29,16 +29,6 @@ Senior Computer Engineering Student passionate about **Computer Architecture**, 
 
 ---
 
-## 🏛️ Featured Systems & Architecture Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🖥️ **[LEGv8 Single-Cycle CPU Simulator](https://github.com/zeynepsilabekar-lab/legv8-single-cycle-cpu)** | Cycle-accurate ARMv8 subset CPU simulator modeling IF, ID, EX, MEM, and WB stages. | `Python` `LEGv8` `Computer Architecture` |
-| ⚡ **[Set-Associative Cache Simulator](https://github.com/zeynepsilabekar-lab/set-associative-cache-simulator)** | Hardware performance tuner optimizing memory access traces, Tag/Index/Offset decoding, and AMAT under 4KB footprint. | `Python` `Memory Hierarchy` `Optimization` |
-| 🌐 **[P2P File Sharing Network Application](https://github.com/zeynepsilabekar-lab/p2p-file-sharing)** | Multi-process peer-to-peer file sharing application implementing discovery, announcement, and concurrent download/upload protocols. | `Python` `Computer Networks` `Sockets` |
-
----
-
 
 ## 📬 Connect with Me
 
